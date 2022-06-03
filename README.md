@@ -1,8 +1,10 @@
 # SkillGuild
 
-[![Generic badge](https://img.shields.io/badge/Status-Development-Green.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Status-MVP-Green.svg)](https://shields.io/)
 
-*Demo available: June 2*
+### Live Demo
+
+[View Demo](http://107.20.60.229:8080/SkillGuild/)
 
 ### Description
 
@@ -10,7 +12,23 @@ SkillGuild is a platform that encourages continuous learning, knowledge-sharing 
 
 The application consists of an Angular (13.3) frontend with Spring Boot API and Java Persistence Application (JPA) with a MySQL database.
 
-*Final Project for SD32*
+### Screenshots
+
+**Home**
+
+<img alt="skillguild-home" src="https://user-images.githubusercontent.com/1522180/171880172-442376b1-6c1a-458b-86c1-247f8f3c1dad.png">
+
+**Browse Guilds**
+
+<img alt="skillguild-home" src="https://user-images.githubusercontent.com/1522180/171880605-3ffe3a94-bde1-42fa-846f-da511eafea00.png">
+
+**Guild**
+
+<img alt="skillguild-home" src="https://user-images.githubusercontent.com/1522180/171880735-3d273c52-87ab-4716-b759-fbd0f43dad2e.png">
+
+**Content**
+
+<img alt="skillguild-home" src="https://user-images.githubusercontent.com/1522180/171880831-e33b3ddb-f359-4685-a8ff-3d7c514fd774.png">
 
 ### User Functionality:
 - User register and login
